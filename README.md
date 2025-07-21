@@ -3,7 +3,7 @@
 # 📚 Data Structures Library – Data Structures Coursework 2025
 
 **Authors:**  
-Christos Papadopoulos
+Christos Papadopoulos /
 Antonios Stamatis
 
 ## 🔍 Description
