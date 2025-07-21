@@ -4,7 +4,7 @@
 
 **Authors:**  
 Christos Papadopoulos /
-Antonios Stamatis
+Antonis Stamatis
 
 ## 🔍 Description
 
